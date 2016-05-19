@@ -32,14 +32,8 @@ namespace DZ.Properties
 
         public void LAB ()
 	{
-		TextBox1.Text = "This is test message for lab 6!";
-	}
-
-    public void LAB1 ()
-	{
-		TextBox1.Text = "This is NEW BRANCH!";
-	}
-
+		TextBox1.Text = "This is test message for lab 6";
+}
 
         public override void Insert()
         {
