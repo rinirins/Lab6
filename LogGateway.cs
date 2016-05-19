@@ -31,7 +31,8 @@ namespace DZ.Properties
         {
             cnn.Close();
         }
-
+   	public void Function ()
+{ TextBox1. Text = "This file is from udalennii repositoryi!"; }
 
 
         public override void Insert()
