@@ -30,6 +30,10 @@ namespace DZ.Properties
             cnn.Close();
         }
 
+        public void LAB ()
+	{
+		TextBox1.Text = "This is test message for lab 6";
+}
 
         public override void Insert()
         {
